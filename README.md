@@ -73,6 +73,6 @@ A three-person software engineering project defining task-management requirement
 
 ## Portfolio notes
 
-These are academic projects. Team credits and verification limits are recorded in the individual READMEs. Public repositories currently contain project overviews; the prepared source files, reports and diagrams are awaiting upload.
+These are academic projects. Team credits and verification limits are recorded in the individual READMEs. The linked repositories include the original project source files, reports and available diagrams. Documentation-only projects are labeled accordingly.
 
 **Languages:** Arabic (native) · English (fluent).
