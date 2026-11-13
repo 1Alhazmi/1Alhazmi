@@ -17,6 +17,16 @@ I study **Computer Science at Umm Al-Qura University**, with an expected graduat
 
 My coursework covers object-oriented programming, data structures and algorithms, database design, software engineering and computer networks. My projects bring together code, relational data, requirements, technical documentation and Digital Logic Design.
 
+## Professional skills
+
+<p>
+  <img src="assets/professional-analytical-thinking.svg" alt="Analytical Thinking" height="28" />
+  <img src="assets/professional-problem-solving.svg" alt="Problem Solving" height="28" />
+  <img src="assets/professional-communication.svg" alt="Communication" height="28" />
+  <img src="assets/professional-fast-learning.svg" alt="Fast Learning" height="28" />
+  <img src="assets/professional-product-building.svg" alt="Product Building" height="28" />
+</p>
+
 ## Skills used in my coursework
 
 <img src="assets/skills.png" alt="Java, JavaFX, SQL, MySQL, OOP, Arduino, requirements engineering, technical documentation and Digital Logic Design" width="100%" />
